@@ -1,7 +1,11 @@
+sudo: false
 language: python
 python:
-    - "3.5"
-before_install:
-    - pip install pytest pytest-cov
+    - 2.6
+    - 2.7
+    - 3.3
+    - 3.4
+install:
+    - pip install tox-travis
 script:
-    - py.test
+ - tox
