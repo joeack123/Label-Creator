@@ -2,7 +2,7 @@ import csv
 from tkinter import *
 
 myGui = Tk()
-myGui.title("Label Creator    v: 0.01")
+myGui.title("Label Creator    v: 3.0")
 myGui.geometry("290x70")
 
 allArray = []
