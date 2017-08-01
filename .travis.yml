@@ -4,6 +4,9 @@ python:
   - "3.3"
   - "3.4"
   - "3.5"
+  
+install: 
+  - "sudo apt-get -qq install libfreetype6-dev liblcms2-dev libwebp-dev python-qt4"
 
 script: 
   - "py.test"
