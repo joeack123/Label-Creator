@@ -1,13 +1,11 @@
-{
-  "language": "python",
-  "python": "3.4",
-  "before_install": [
-    "pip install pytest pytest-cov"
-  ],
-  "script": [
+"language": "python",
+"python": "3.4",
+"before_install": [
+  "pip install pytest pytest-cov"
+  
+  "script":
     "py.test"
-  ],
+    
   "group": "stable",
   "dist": "precise",
-  "os": "linux"
-}
+  "os": "linux
