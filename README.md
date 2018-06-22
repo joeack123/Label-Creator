@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joeack123/Label-Creator.svg?branch=master)](https://travis-ci.org/joeack123/Label-Creator)
 
-How to run:	go into the dist folder and download the executalble then launch.
+How to run:	go into the dist folder and download the executable then launch.
 
 How to use the application:	                                                                                                         
 Type in the starting number and ending number and hit start.                                                                        
